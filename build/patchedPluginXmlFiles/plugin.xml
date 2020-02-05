@@ -1,0 +1,21 @@
+<idea-plugin>
+  <version>1.0-SNAPSHOT</version>
+  <change-notes>
+      Add change notes here.&lt;br&gt;
+      &lt;em&gt;most HTML tags may be used&lt;/em&gt;</change-notes>
+  <idea-version since-build="193.6015" until-build="193.*"/>
+  <id>org.example.emmy1</id>
+  <name>SAMPLE</name>
+  <vendor email="emmybasabose@gmail.com" url="http://www.etacs.com">ETACS</vendor>
+  <description>
+    THIS IS MEANT TO RECOMMEND SOLUTIONS FROM STACK OVERFLOW.&lt;br&gt;
+
+    </description>
+  <depends>com.intellij.modules.platform</depends>
+  <extensions defaultExtensionNs="com.intellij"/>
+  <actions>
+    <action id="myAction1" class="myAction1" text="Recomend" description="Pop up trial dialog">
+      <add-to-group group-id="ToolsMenu" anchor="first"/>
+    </action>
+  </actions>
+</idea-plugin>

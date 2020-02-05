@@ -1,0 +1,28 @@
+2020-02-01 05:15:57,048 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2020-02-01 05:15:57,050 [      2]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/DELL/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2019.3.2/b911671d7501d9fd63cea3eee8287d8ceb4113c6/ideaIC-2019.3.2/plugins/java/lib/jps-launcher.jar
+2020-02-01 05:15:59,074 [   2026]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1756 ms
+2020-02-01 05:16:00,160 [   3112]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/DELL/Downloads/Compressed/plugin-medium-Part1/plugin-medium-Part1, global options path = C:/Users/DELL/IdeaProjects/emmy1/build/idea-sandbox/config/options
+2020-02-01 05:16:01,050 [   4002]   INFO - serialization.JpsProjectLoader - External project config dir is used: C:\Users\DELL\IdeaProjects\emmy1\build\idea-sandbox\system\external_build_system\plugin-medium-part1.c047595c\project
+2020-02-01 05:16:01,064 [   4016]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: C:\Users\DELL\IdeaProjects\emmy1\build\idea-sandbox\system\external_build_system\plugin-medium-part1.c047595c\modules
+2020-02-01 05:16:01,157 [   4109]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 997 ms
+2020-02-01 05:16:01,157 [   4109]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2020-02-01 05:16:01,916 [   4868]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=680
+2020-02-01 05:16:02,921 [   5873]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:true; isMake:false parallel compilation:false
+2020-02-01 05:16:02,962 [   5914]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2020-02-01 05:16:02,962 [   5914]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2020-02-01 05:16:03,022 [   5974]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2020-02-01 05:16:03,023 [   5975]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 88366134
+2020-02-01 05:16:03,193 [   6145]   INFO - s.index.CompilerReferenceIndex - backward reference index version doesn't exist
+2020-02-01 05:16:03,455 [   6407]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 4 ms
+2020-02-01 05:16:05,765 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2020-02-01 05:16:05,766 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/DELL/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2019.3.2/b911671d7501d9fd63cea3eee8287d8ceb4113c6/ideaIC-2019.3.2/plugins/java/lib/jps-launcher.jar
+2020-02-01 05:16:06,639 [    874]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 744 ms
+2020-02-01 05:16:06,704 [    939]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2020-02-01 05:16:06,805 [   1040]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/DELL/Downloads/Compressed/plugin-medium-Part1/plugin-medium-Part1, global options path = C:/Users/DELL/IdeaProjects/emmy1/build/idea-sandbox/config/options
+2020-02-01 05:16:07,600 [   1835]   INFO - serialization.JpsProjectLoader - External project config dir is used: C:\Users\DELL\IdeaProjects\emmy1\build\idea-sandbox\system\external_build_system\plugin-medium-part1.c047595c\project
+2020-02-01 05:16:07,615 [   1850]   INFO - serialization.JpsProjectLoader - External project config dir is used for modules: C:\Users\DELL\IdeaProjects\emmy1\build\idea-sandbox\system\external_build_system\plugin-medium-part1.c047595c\modules
+2020-02-01 05:16:07,701 [   1936]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 896 ms
+2020-02-01 05:16:07,701 [   1936]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2020-02-01 05:16:07,947 [   2182]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=680
+2020-02-01 05:16:08,400 [   2635]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2638 ms
+2020-02-01 05:17:50,648 [ 104883]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.

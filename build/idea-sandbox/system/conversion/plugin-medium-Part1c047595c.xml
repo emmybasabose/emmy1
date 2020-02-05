@@ -1,0 +1,16 @@
+<conversion>
+  <applied-converters>
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="android-sdk-library" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\DELL\Downloads\Compressed\plugin-medium-Part1\plugin-medium-Part1\.idea\workspace.xml" timestamp="1580523348988" />
+    <file path="C:\Users\DELL\Downloads\Compressed\plugin-medium-Part1\plugin-medium-Part1\.idea\gradle.xml" timestamp="1580293636668" />
+    <file path="C:\Users\DELL\Downloads\Compressed\plugin-medium-Part1\plugin-medium-Part1\.idea\plugin-medium-Part1.iml" timestamp="1580293636625" />
+    <file path="C:\Users\DELL\Downloads\Compressed\plugin-medium-Part1\plugin-medium-Part1\.idea\misc.xml" timestamp="1580209519080" />
+    <file path="C:\Users\DELL\Downloads\Compressed\plugin-medium-Part1\plugin-medium-Part1\.idea\modules.xml" timestamp="1580293636715" />
+  </project-files>
+</conversion>
